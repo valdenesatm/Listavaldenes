@@ -1,0 +1,976 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Sony HD">
+    <display-name lang="pt">Canal Sony HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20181108000000 +0000" stop="20181108235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20181108001500 -0400" stop="20181108010900 -0400" channel="Animal Planet HD">
+    <title lang="pt">Vida Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108010900 -0400" stop="20181108015900 -0400" channel="Animal Planet HD">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108015900 -0400" stop="20181108024900 -0400" channel="Animal Planet HD">
+    <title lang="pt">América do Norte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108024900 -0400" stop="20181108033900 -0400" channel="Animal Planet HD">
+    <title lang="pt">África Selvagem: Rios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108033900 -0400" stop="20181108043000 -0400" channel="Animal Planet HD">
+    <title lang="pt">Cara a Cara com as Feras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108043000 -0400" stop="20181108052100 -0400" channel="Animal Planet HD">
+    <title lang="pt">Predadores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108052100 -0400" stop="20181108061200 -0400" channel="Animal Planet HD">
+    <title lang="pt">Nova Zelândia Primitiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108061200 -0400" stop="20181108064200 -0400" channel="Animal Planet HD">
+    <title lang="pt">Zona de Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108064200 -0400" stop="20181108071200 -0400" channel="Animal Planet HD">
+    <title lang="pt">Pântano Perigoso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108071200 -0400" stop="20181108080300 -0400" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108080300 -0400" stop="20181108085800 -0400" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108085800 -0400" stop="20181108095300 -0400" channel="Animal Planet HD">
+    <title lang="pt">Meu Gato Endiabrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108095300 -0400" stop="20181108104800 -0400" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108104800 -0400" stop="20181108114300 -0400" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108114300 -0400" stop="20181108123700 -0400" channel="Animal Planet HD">
+    <title lang="pt">Um Lar para Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108123700 -0400" stop="20181108130600 -0400" channel="Animal Planet HD">
+    <title lang="pt">Patrulha de Bornéu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108130600 -0400" stop="20181108140000 -0400" channel="Animal Planet HD">
+    <title lang="pt">Indonésia Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108140000 -0400" stop="20181108145400 -0400" channel="Animal Planet HD">
+    <title lang="pt">Isca Humana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108145400 -0400" stop="20181108154800 -0400" channel="Animal Planet HD">
+    <title lang="pt">Isca Humana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108154800 -0400" stop="20181108164200 -0400" channel="Animal Planet HD">
+    <title lang="pt">Isca Humana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108164200 -0400" stop="20181108173600 -0400" channel="Animal Planet HD">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108173600 -0400" stop="20181108180100 -0400" channel="Animal Planet HD">
+    <title lang="pt">Reino Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108180100 -0400" stop="20181108182600 -0400" channel="Animal Planet HD">
+    <title lang="pt">Aprendiz Animal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108182600 -0400" stop="20181108184900 -0400" channel="Animal Planet HD">
+    <title lang="pt">Terra Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108184900 -0400" stop="20181108193900 -0400" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108193900 -0400" stop="20181108203000 -0400" channel="Animal Planet HD">
+    <title lang="pt">Casas na Árvore</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108203000 -0400" stop="20181108212100 -0400" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108212100 -0400" stop="20181108221500 -0400" channel="Animal Planet HD">
+    <title lang="pt">Com Água Até o Pescoço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108221500 -0400" stop="20181108230900 -0400" channel="Animal Planet HD">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108230900 -0400" stop="20181109000700 -0400" channel="Animal Planet HD">
+    <title lang="pt">Casas de Brinquedo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108004000 -0400" stop="20181108023000 -0400" channel="Canal Sony HD">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108023000 -0400" stop="20181108030000 -0400" channel="Canal Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108030000 -0400" stop="20181108033000 -0400" channel="Canal Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108033000 -0400" stop="20181108040000 -0400" channel="Canal Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108040000 -0400" stop="20181108050000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108050000 -0400" stop="20181108060000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108060000 -0400" stop="20181108063000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108063000 -0400" stop="20181108070000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108070000 -0400" stop="20181108073000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Young &amp; Hungry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108073000 -0400" stop="20181108075500 -0400" channel="Canal Sony HD">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108075500 -0400" stop="20181108082000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108082000 -0400" stop="20181108092000 -0400" channel="Canal Sony HD">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108092000 -0400" stop="20181108102000 -0400" channel="Canal Sony HD">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108102000 -0400" stop="20181108121000 -0400" channel="Canal Sony HD">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108121000 -0400" stop="20181108140000 -0400" channel="Canal Sony HD">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108140000 -0400" stop="20181108150000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108150000 -0400" stop="20181108160000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108160000 -0400" stop="20181108163000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Young &amp; Hungry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108163000 -0400" stop="20181108170000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108170000 -0400" stop="20181108173000 -0400" channel="Canal Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108173000 -0400" stop="20181108180000 -0400" channel="Canal Sony HD">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108180000 -0400" stop="20181108183000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108183000 -0400" stop="20181108190000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108190000 -0400" stop="20181108210000 -0400" channel="Canal Sony HD">
+    <title lang="pt">Palavras e Imagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108210000 -0400" stop="20181108220000 -0400" channel="Canal Sony HD">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108220000 -0400" stop="20181108230000 -0400" channel="Canal Sony HD">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108230000 -0400" stop="20181109000000 -0400" channel="Canal Sony HD">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108000000 -0400" stop="20181108020000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108020000 -0400" stop="20181108040000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108040000 -0400" stop="20181108060000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108060000 -0400" stop="20181108080000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108080000 -0400" stop="20181108100000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108100000 -0400" stop="20181108120000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108120000 -0400" stop="20181108140000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108140000 -0400" stop="20181108160000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108160000 -0400" stop="20181108180000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108180000 -0400" stop="20181108200000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108200000 -0400" stop="20181108220000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108220000 -0400" stop="20181109000000 -0400" channel="Combate HD">
+    <title lang="pt">Programação Canal Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108002300 -0400" stop="20181108003500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108003500 -0400" stop="20181108004800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108004800 -0400" stop="20181108010000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Monchhichi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108010000 -0400" stop="20181108011200 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Monchhichi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108011200 -0400" stop="20181108012400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108012400 -0400" stop="20181108013600 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108013600 -0400" stop="20181108015900 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108015900 -0400" stop="20181108021300 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Miss Moon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108021300 -0400" stop="20181108023600 -0400" channel="Discovery Kids HD">
+    <title lang="pt">My Little Pony</title>
+    <sub-title lang="pt">A Amizade é Mágica</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108023600 -0400" stop="20181108025900 -0400" channel="Discovery Kids HD">
+    <title lang="pt">O Zoo da Zu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108025900 -0400" stop="20181108031000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108031000 -0400" stop="20181108032100 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108032100 -0400" stop="20181108034400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Backyardigans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108034400 -0400" stop="20181108035500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108035500 -0400" stop="20181108040600 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108040600 -0400" stop="20181108041800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108041800 -0400" stop="20181108043000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108043000 -0400" stop="20181108044100 -0400" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108044100 -0400" stop="20181108045300 -0400" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108045300 -0400" stop="20181108051600 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108051600 -0400" stop="20181108053800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108053800 -0400" stop="20181108060000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Miss Moon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108060000 -0400" stop="20181108060500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108060500 -0400" stop="20181108061000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108061000 -0400" stop="20181108062400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">George, o Curioso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108062400 -0400" stop="20181108063500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Escola de Brinquedos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108063500 -0400" stop="20181108070000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Backyardigans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108070000 -0400" stop="20181108072500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Parque Patati Patatá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108072500 -0400" stop="20181108073000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108073000 -0400" stop="20181108074500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Rainbow Ruby</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108074500 -0400" stop="20181108080000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108080000 -0400" stop="20181108082700 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108082700 -0400" stop="20181108083400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108083400 -0400" stop="20181108084700 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Monchhichi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108084700 -0400" stop="20181108085200 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108085200 -0400" stop="20181108085700 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108085700 -0400" stop="20181108090800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lilybuds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108090800 -0400" stop="20181108092300 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108092300 -0400" stop="20181108093400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108093400 -0400" stop="20181108094700 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108094700 -0400" stop="20181108101100 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108101100 -0400" stop="20181108103600 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108103600 -0400" stop="20181108110100 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108110100 -0400" stop="20181108111500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108111500 -0400" stop="20181108113000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108113000 -0400" stop="20181108114400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108114400 -0400" stop="20181108120000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108120000 -0400" stop="20181108121400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108121400 -0400" stop="20181108123000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108123000 -0400" stop="20181108140000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Carteiro Pat: O Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108140000 -0400" stop="20181108142500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108142500 -0400" stop="20181108143000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108143000 -0400" stop="20181108143500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108143500 -0400" stop="20181108144700 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108144700 -0400" stop="20181108150000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108150000 -0400" stop="20181108153000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Zak Storm</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108153000 -0400" stop="20181108155100 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108155100 -0400" stop="20181108155800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108155800 -0400" stop="20181108160500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108160500 -0400" stop="20181108163000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Big Top Academy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108163000 -0400" stop="20181108165300 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Big Top Academy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108165300 -0400" stop="20181108165800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108165800 -0400" stop="20181108171300 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108171300 -0400" stop="20181108172400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108172400 -0400" stop="20181108173800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Super Wings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108173800 -0400" stop="20181108174900 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108174900 -0400" stop="20181108180200 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108180200 -0400" stop="20181108181500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108181500 -0400" stop="20181108183000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Natugato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108183000 -0400" stop="20181108185500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108185500 -0400" stop="20181108191800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108191800 -0400" stop="20181108192300 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108192300 -0400" stop="20181108192800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108192800 -0400" stop="20181108194400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108194400 -0400" stop="20181108195500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108195500 -0400" stop="20181108200000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108200000 -0400" stop="20181108202500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108202500 -0400" stop="20181108203000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108203000 -0400" stop="20181108205500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108205500 -0400" stop="20181108210000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Peppa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108210000 -0400" stop="20181108211500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108211500 -0400" stop="20181108213000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108213000 -0400" stop="20181108214400 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Doki</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108214400 -0400" stop="20181108215100 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108215100 -0400" stop="20181108215800 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108215800 -0400" stop="20181108220500 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108220500 -0400" stop="20181108223000 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Big Top Academy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108223000 -0400" stop="20181108225300 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Big Top Academy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108225300 -0400" stop="20181109002300 -0400" channel="Discovery Kids HD">
+    <title lang="pt">Meu Amigo Totoro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
